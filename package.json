@@ -1,0 +1,23 @@
+{
+  "name": "proxy-server",
+  "version": "1.0.0",
+  "description": "proxy-server-wes",
+  "scripts": {
+    "start": "nodemon ./public/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmwy-labs/proxy-server-Wes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmwy-labs/proxy-server-Wes/issues"
+  },
+  "homepage": "https://github.com/lmwy-labs/proxy-server-Wes#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.2"
+  }
+}
