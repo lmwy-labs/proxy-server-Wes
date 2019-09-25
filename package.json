@@ -16,9 +16,12 @@
   },
   "homepage": "https://github.com/lmwy-labs/proxy-server-Wes#readme",
   "dependencies": {
+    "artillery": "^1.6.0-28",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "morgan": "^1.9.1",
-    "nodemon": "^1.19.2"
+    "newrelic": "^5.11.0",
+    "nodemon": "^1.19.2",
+    "request": "^2.88.0"
   }
 }
